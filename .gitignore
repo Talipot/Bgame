@@ -10,3 +10,7 @@
 /BGame-2d/UserSettings
 *.log
 /BGame-2d/Packages
+*.asset
+BGame-2d/Assets/TileMap/.DS_Store
+BGame-2d/Assets/.DS_Store
+BGame-2d/.DS_Store
