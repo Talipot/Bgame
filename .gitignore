@@ -5,3 +5,8 @@
 /BGame/Logs
 /BGame/Temp
 /BGame/UserSettings
+/BGame-2d/Library
+/BGame-2d/Temp
+/BGame-2d/UserSettings
+*.log
+/BGame-2d/Packages
