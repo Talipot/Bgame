@@ -1,0 +1,7 @@
+
+*.meta
+*.scenetemplate
+/BGame/Library
+/BGame/Logs
+/BGame/Temp
+/BGame/UserSettings
